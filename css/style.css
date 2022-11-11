@@ -1,0 +1,40 @@
+/* RESET */
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #d6d6d6;
+}
+/* DETALLES NAVBAR */
+.navbar-css{
+    padding: 0;
+    
+}
+/* LOGO */
+.logo{
+    width: 60px;
+}
+/* HOVER NAVBAR */
+.hover a:hover{
+    color: #0096b0;
+}
+.hover{
+    transition: all 0s ease 0.3s;
+}
+/* TAMAÑO LOGOS REDES SOCIALES */
+.w-redes{
+    width: 30px;
+    margin: 20px;
+}
+/* LINKS EN PÁRRAFOS DEL INDEX */
+.click--aqui{
+    text-decoration: none;
+}
+/* VÍDEOS DE YOUTUBE */
+.video{
+    width: 260px;
+    height: 150px;
+}
+/* IMÁGENES ABOUT */
+.img{
+    width: 18rem;
+}
